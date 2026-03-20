@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tailgadgets.com/sitemap.xml
